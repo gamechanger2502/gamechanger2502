@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gamechanger2502
-- 👀 I’m interested in coding and i'm a beginner
-- 🌱 I’m currently learning DSA in Java and also GIT
+- 👀 I’m interested in coding and Machine Learning
+- 🌱 I’m currently learning working in JAVA, Python
 - 💞️ I’m looking to collaborate on anything related to DSA
 - 📫 How to reach me: adityabusiness2502@gmail.com
 
